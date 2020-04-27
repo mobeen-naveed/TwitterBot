@@ -1,0 +1,2 @@
+uname="uname"
+pwd="pwd"
